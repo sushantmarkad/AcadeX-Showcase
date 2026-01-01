@@ -44,6 +44,6 @@ I am a passionate IT Engineering student and full-stack developer. My focus is o
 * 💻 **Other Projects:** Developer of **Secure Chat** (Secure, End-to-End Encrypted Messaging).
 
 **Want to see more of my work or discuss a potential collaboration?**
-🌟 **Visit my Official Portfolio:** [Click Here to View Portfolio](INSERT_YOUR_PORTFOLIO_LINK_HERE)
+🌟 **Visit my Official Portfolio:** [Click Here to View Portfolio](https://sushantportfolio-lyart.vercel.app/)
 
 ---
