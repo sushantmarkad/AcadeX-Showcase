@@ -41,7 +41,7 @@ If you are an investor or recruiter interested in the technical architecture or 
 I am a passionate IT Engineering student and full-stack developer. My focus is on building scalable, real-world solutions that solve genuine problems.
 
 * 🏆 **Achievements:** 1st Runner Up, Smart India Hackathon (SIH) 2025.
-* 💻 **Other Projects:** Developer of **MyChats** (Secure, End-to-End Encrypted Messaging).
+* 💻 **Other Projects:** Developer of **Secure Chat** (Secure, End-to-End Encrypted Messaging).
 
 **Want to see more of my work or discuss a potential collaboration?**
 🌟 **Visit my Official Portfolio:** [Click Here to View Portfolio](INSERT_YOUR_PORTFOLIO_LINK_HERE)
