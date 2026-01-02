@@ -11,7 +11,7 @@
 
 **AcadeX** revolutionizes campus management by replacing manual registers with automated geofencing, gamified learning, and real-time analytics.
 
-[View Portfolio Website](INSERT_YOUR_PORTFOLIO_LINK_HERE)
+[View Portfolio Website](https://sushantportfolio-lyart.vercel.app/)
 
 </div>
 
