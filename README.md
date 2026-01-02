@@ -21,7 +21,16 @@ This platform is built using a modern, scalable architecture:
 
 
 ![Dashboard Screenshot](./StudentDashboard.png)
-*Figure 1: The AcadeX Instructor Dashboard*
+*Figure 1: The Student Dashbaord. From this student can mark his attendance and do some other work*
+
+![Dashboard Screenshot](./TeacherDashboard.png)
+*Figure 2: The Teacher Dashboard. From this teacher can generate a QR code for the attendance which refereshes for every 10 secs for avoiding proxy also we have integrated geofencing which calculates the student's and teacher's location if they both are in between 100 only then the attendance will mark*
+
+![Dashboard Screenshot](./TeacherAnalytics.png)
+*Figure 3: Teacher can view weekly attendance in chart form*
+
+![Dashboard Screenshot](./TeacherPastReports.png)
+*Figure 4:Teacher can also see datewise attendance data of students*
 
 ### 🔒 Source Code & Licensing
 **AcadeX is a proprietary product.**
