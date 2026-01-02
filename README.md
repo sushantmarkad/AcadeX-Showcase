@@ -5,101 +5,164 @@
 
 ![Status](https://img.shields.io/badge/Status-Startup_Mode-blue?style=for-the-badge)
 ![Achievement](https://img.shields.io/badge/SIH_2025-1st_Runner_Up-gold?style=for-the-badge)
+![Tech](https://img.shields.io/badge/Tech-React_|_Firebase-orange?style=for-the-badge)
+
+<br />
+
+**AcadeX** revolutionizes campus management by replacing manual registers with automated geofencing, gamified learning, and real-time analytics.
+
+[View Portfolio Website](INSERT_YOUR_PORTFOLIO_LINK_HERE)
 
 </div>
 
 ---
 
-### 🎮 Gamified Student Experience
-**Earn XP & Rewards:**
-Students can view pending tasks and earn 'XP' (Experience Points) for completing curriculum activities. This gamification encourages active participation.
+### 🚀 1. The Student Experience
+> **Gamification & Engagement:**
+> Students don't just attend; they compete. The dashboard displays pending tasks and rewards 'XP' (Experience Points) for completing curriculum activities.
 
-![Free Period Tasks](./FreePeriodTasks.png)
+<br />
 
-> **See the Student Experience in Action:**
-> A complete view of the student dashboard and gamification elements.
+<div align="center"> 
+  <img src="./Full%20Student%20Dashbaord.gif" width="100%" />
+  <p><i>👆 The Live Student Dashboard in Action (XP & Tasks)</i></p>
+</div>
 
-![Student Dashboard Demo](./Full%20Student%20Dashboard.gif)
+<br />
 
----
+> **Free Period Management:**
+> Students can utilize free time effectively by picking up suggested tasks.
 
-### 👨‍🏫 Teacher Command Center
-**Dynamic QR & Geofencing:**
-This is the core of our **Smart Attendance** feature.
-* **Anti-Proxy:** The QR code refreshes every **10 seconds**, preventing students from sharing codes.
-* **Geofencing:** The system verifies GPS location—attendance is only marked if the student and teacher are within a **100-meter radius**.
+<div align="center">
+  <img src="./FreePeriodTasks.png" width="80%" />
+</div>
 
-![Teacher Dashboard](./TeacherDashboard.png)
-*Figure: The Real-time Teacher Dashboard with Dynamic QR generation.*
-
-**Weekly Performance Analytics:**
-Teachers can view weekly attendance trends in an intuitive chart format to track class engagement.
-
-![Teacher Analytics](./TeacherAnalytics.png)
-*Figure: Weekly attendance visualization.*
-
-**Detailed History & Reports:**
-Teachers can access date-wise attendance data for specific students or entire classes.
-
-![Teacher Past Reports](./TeacherPastReports.png)
-*Figure: Detailed date-wise attendance history.*
+<br />
 
 ---
 
-### 📈 Head of Department (HOD) Suite
-**Department-Wide Monitoring:**
-HODs have a bird's-eye view of the entire department's health.
-* **📉 Defaulter Alerts:** If a student's attendance drops **below 75%**, the HOD can trigger an automatic notice directly from this dashboard.
+### 👨‍🏫 2. Teacher Command Center
+> **Dynamic QR & Geofencing (Anti-Proxy):**
+> This is our core innovation. The QR code refreshes every **10 seconds**, and the system validates that the student is within **100 meters** of the teacher's device.
 
-![HOD Analytics](./HODAnalytics.png)
-*Figure: Departmental analytics and defaulter management system.*
+<br />
 
-> **HOD Workflow Demo:**
-> Watch how the HOD manages time tables and reviews department analytics.
+<div align="center">
+  <img src="./TeacherDashboard.png" width="100%" />
+  <p><i>Figure: Real-time Teacher Dashboard generating Dynamic QRs.</i></p>
+</div>
 
-![HOD Live Demo](./HOD.gif)
+<br />
 
----
+> **Visual Analytics:**
+> Teachers can spot trends instantly with weekly bar charts.
 
-### 🏛️ Institute Administration
-**Centralized Control:**
-The Institute Admin has full control over the campus ecosystem, managing departments, faculty, and student logs from a single secure panel.
+<div align="center">
+  <img src="./TeacherAnalytics.png" width="90%" />
+</div>
 
-![Institute Admin Dashboard](./InstituteAdmin.png)
-*Figure: The Master Control Panel for Institute Administrators.*
+<br />
 
-> **Institute Dashboard Preview:**
-> A walkthrough of the admin controls and hierarchy management.
+> **Detailed History:**
+> Access past attendance records with a single click.
 
-![Institute Dashboard Demo](./Institute%20Dashboard.gif)
+<div align="center">
+  <img src="./TeacherPastReports.png" width="90%" />
+</div>
 
----
-
-### 🔐 Super Admin Panel
-**Global Oversight:**
-The highest level of authority. The Super Admin manages the onboarding of new institutes onto the AcadeX platform.
-* **Verification:** Ability to **Accept** or **Reject** registration requests from new institutes.
-
-![Super Admin Panel](./SuperAdmin.png)
-*Figure: Super Admin interface for managing institute requests.*
+<br />
 
 ---
 
-### 🤖 AI-Powered Assistance
-**Groq API Integration:**
-Our intelligent chatbot assists users with queries, navigation, and schedule management.
+### 📈 3. Head of Department (HOD) Suite
+> **Department-Wide Oversight:**
+> HODs get a bird's-eye view of all classes. The system auto-flags students with attendance **below 75%** so you can send notices instantly.
 
-![AI Chatbot Demo](./AI%20Chatbot%20Demo.gif)
+<br />
+
+<div align="center">
+  <img src="./HodAnalytics.png" width="100%" />
+  <p><i>Figure: HOD Dashboard with Defaulter Management.</i></p>
+</div>
+
+<br />
+
+<div align="center">
+  <h3>🎥 HOD Workflow Demo</h3>
+  <img src="./HOD.gif" width="100%" />
+  <p><i>👆 Watch the HOD manage timetables in real-time.</i></p>
+</div>
+
+<br />
+
+---
+
+### 🏛️ 4. Institute Administration
+> **The Master Control Panel:**
+> Admins manage the entire ecosystem—Departments, Faculty, and Students—from one secure location.
+
+<br />
+
+<div align="center">
+  <img src="./InstituteAdmin.png" width="100%" />
+</div>
+
+<br />
+
+<div align="center">
+  <h3>🎥 Admin Dashboard Preview</h3>
+  <img src="./Institute%20Dashboard.gif" width="100%" />
+</div>
+
+<br />
+
+---
+
+### 🔐 5. Super Admin Panel
+> **Global Onboarding:**
+> The Super Admin acts as the gatekeeper, accepting or rejecting registration requests from new institutes joining the AcadeX platform.
+
+<br />
+
+<div align="center">
+  <img src="./SuperAdmin.png" width="90%" />
+</div>
+
+<br />
+
+---
+
+### 🤖 6. AI-Powered Assistance
+> **Groq API Integration:**
+> Our "Super Mentor" chatbot answers student queries about schedules and syllabus instantly.
+
+<br />
+
+<div align="center">
+  <img src="./AI%20Chatbot%20Demo.gif" width="100%" />
+  <p><i>👆 The AI Assistant in action.</i></p>
+</div>
+
+<br />
 
 ---
 
 <div align="center">
 
 ### 🔒 License & Ownership
-**AcadeX is a proprietary product.**
-The source code is currently closed-source.
+**AcadeX is a proprietary startup product.**
+<br />
+The source code is closed-source.
+<br />
 **© 2026 Sushant Markad. All Rights Reserved.**
 
-[Visit Portfolio Website](INSERT_YOUR_PORTFOLIO_LINK_HERE)
+<br />
+
+### 👨‍💻 About the Developer
+**Sushant Markad**
+<br />
+*Team Leader - Team Nexus | SIH 2025 1st Runner Up*
+
+[Portfolio](INSERT_YOUR_PORTFOLIO_LINK_HERE) | [LinkedIn](INSERT_LINKEDIN_URL) | [Email](mailto:sushantmarkad1@gmail.com)
 
 </div>
