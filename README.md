@@ -18,9 +18,9 @@ This platform is built using a modern, scalable architecture:
 * **Security:** End-to-end encryption for sensitive student data.
 
 ### 📸 Gallery
-*(Note: Replace the text below with the actual filenames of images you uploaded in Step 3)*
 
-![Dashboard Screenshot](./dashboard-image.png)
+
+![Dashboard Screenshot](./StudentDashboard.png)
 *Figure 1: The AcadeX Instructor Dashboard*
 
 ### 🔒 Source Code & Licensing
