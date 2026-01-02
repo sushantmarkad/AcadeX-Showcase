@@ -163,6 +163,6 @@ The source code is closed-source.
 <br />
 *Team Leader - Team Nexus | SIH 2025 1st Runner Up*
 
-[Portfolio](INSERT_YOUR_PORTFOLIO_LINK_HERE) | [LinkedIn](INSERT_LINKEDIN_URL) | [Email](mailto:sushantmarkad1@gmail.com)
+[Portfolio](https://sushantportfolio-lyart.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/sushant-markad/) | [Email](mailto:sushantmarkad1@gmail.com)
 
 </div>
