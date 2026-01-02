@@ -51,10 +51,13 @@ This platform is built using a modern, scalable architecture:
 
 ![Dashboard Screenshot](./HodAnalytics.png)
 
-*Figure 9: HOD can see the attendace of whole department in chart forms if any student from depsrtment is below 75% then HOD can send a notice to that student*
+*Figure 9: Here is the institute dashboard from here institute admin can control the whole Instittue*
 
+![Dashboard Screenshot](./InstituteAdmin.png)
 
+*Figure 10: Here is the super admin panel who can accepet or reject the reuqest of insitutes*
 
+![Dashboard Screenshot](./SuperAdmin.png)
 
 
 
