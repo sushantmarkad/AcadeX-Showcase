@@ -51,6 +51,9 @@ This platform is built using a modern, scalable architecture:
 
 ![Dashboard Screenshot](./HodAnalytics.png)
 
+*Figure 9: HOD can see the attendace of whole department in chart forms if any student from depsrtment is below 75% then HOD can send a notice to that student*
+
+
 
 
 
