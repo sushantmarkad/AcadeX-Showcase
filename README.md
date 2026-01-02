@@ -1,88 +1,130 @@
-# AcadeX: Smart Attendance & Curriculum Platform
-> **🏆 1st Runner Up - Smart India Hackathon (SIH) 2025**
+<div align="center">
 
-### 🚀 Overview
-**AcadeX** is a next-generation academic management platform designed to streamline the gap between students and institutions. It automates attendance tracking and centralizes curriculum activities, solving the problem of manual data entry and disorganized academic records.
+# 🎓 AcadeX
+### The Next-Gen Smart Attendance & Curriculum Platform
 
-### ✨ Key Features
-* **Smart Attendance:** Automated tracking using geolocation and time-stamping.
-* **Curriculum Management:** Centralized dashboard for syllabus tracking and academic progress.
-* **Performance Analytics:** Real-time data visualization for students and faculty.
-* **PWA Support:** Installable on mobile devices with offline capabilities.
+![Status](https://img.shields.io/badge/Status-Startup_Mode-blue?style=for-the-badge)
+![Achievement](https://img.shields.io/badge/SIH_2025-1st_Runner_Up-gold?style=for-the-badge)
+![Tech](https://img.shields.io/badge/Built_With-React_|_Firebase_|_Node-green?style=for-the-badge)
 
-### 🛠️ Tech Stack
-This platform is built using a modern, scalable architecture:
-* **Frontend:** React.js (High-performance UI)
-* **Backend:** Node.js & Render (Scalable server-side logic)
-* **Database:** Firebase (Real-time data synchronization)
-* **Security:** End-to-end encryption for sensitive student data.
+<br />
 
-### 📸 Gallery
+**AcadeX** bridges the gap between students, faculty, and administration. It replaces manual registers with automated geofencing, real-time analytics, and a centralized academic workflow.
 
-*Figure 1: The Student Dashbaord. From this student can mark his attendance and do some other work*
+[View Portfolio Website](INSERT_YOUR_PORTFOLIO_LINK_HERE)
 
-![Dashboard Screenshot](./StudentDashboard.png)
-
-*Figure 2: We have implemented a personalized AI chatbot in the app which fetches the students profile and suggests him the tasks according to his interest he write in his profile*
-
-![Dashboard Screenshot](./AIChatBot.png)
-
-*Figure 3: Also if the student wants notes or quiz for a particular topic he can ask to AcadeX coach*
-
-![Dashboard Screenshot](./AIchatbot2.png)
-
-*Figure 4: When there is free period AI automatically detects the free period then AI will suggest the tasks to students when they complete that they will earn some XPs*
-
-![Dashboard Screenshot](./FreePeriodTasks.png)
-
-*Figure 5: The Teacher Dashboard. From this teacher can generate a QR code for the attendance which refereshes for every 10 secs for avoiding proxy also we have integrated geofencing which calculates the student's and teacher's location if they both are in between 100 only then the attendance will mark*
-
-![Dashboard Screenshot](./TeacherDashboard.png)
-
-*Figure 6: Teacher can view weekly attendance in chart form*
-
-![Dashboard Screenshot](./TeacherAnalytics.png)
-
-*Figure 7: Teacher can also see datewise attendance data of students*
-
-![Dashboard Screenshot](./TeacherPastReports.png)
-
-*Figure 8: HOD can see the attendace of whole department in chart forms if any student from depsrtment is below 75% then HOD can send a notice to that student*
-
-![Dashboard Screenshot](./HodAnalytics.png)
-
-*Figure 9: Here is the institute dashboard from here institute admin can control the whole Instittue*
-
-![Dashboard Screenshot](./InstituteAdmin.png)
-
-*Figure 10: Here is the super admin panel who can accepet or reject the reuqest of insitutes*
-
-![Dashboard Screenshot](./SuperAdmin.png)
-
-
-
-
-### 🔒 Source Code & Licensing
-**AcadeX is a proprietary product.**
-The source code is currently closed-source as we prepare for our startup launch.
-
-If you are an investor or recruiter interested in the technical architecture or a live demo, please contact me directly.
+</div>
 
 ---
-**Created by Sushant Markad**
-*Team Leader - Team Nexus | SIH 2025*
+
+## 🚀 Key Features & Gallery
+
+### 1️⃣ The Student Experience
+**Gamified Learning & Task Management:**
+Students don't just attend; they engage. The dashboard allows students to view pending tasks and earn **XP (Experience Points)** for completing curriculum activities, gamifying the academic journey.
+
+![Student Dashboard](./Full%20Student%20Dashboard.gif)
+*Figure 1: The dynamic Student Dashboard with XP tracking.*
+
+![Free Period Tasks](./FreePeriodTasks.png)
+*Figure 2: Task management view for free periods.*
+
 ---
 
-## 👨‍💻 About the Developer
+### 2️⃣ Teacher Command Center
+**Smart Attendance (Anti-Proxy Technology):**
+Our core feature uses a double-layer verification system:
+1.  **Dynamic QR:** The attendance code refreshes every **10 seconds**, preventing students from sharing screenshots.
+2.  **Geofencing:** The system validates that both the student and teacher are within a **100-meter radius**. Attendance is only marked if location data matches.
+
+![Teacher Dashboard](./TeacherDashboard.png)
+*Figure 3: Real-time Teacher Dashboard with Dynamic QR generation.*
+
+**Performance Analytics:**
+Teachers can visualize class health instantly.
+* **Weekly Trends:** Bar charts showing attendance flow.
+* **Date-wise Reports:** Deep dive into specific days or lectures.
+
+![Teacher Analytics](./TeacherAnalytics.png)
+*Figure 4: Weekly attendance visualization.*
+
+![Teacher Past Reports](./TeacherPastReports.png)
+*Figure 5: Detailed date-wise attendance history.*
+
+---
+
+### 3️⃣ Head of Department (HOD) Suite
+**Department-Wide Oversight:**
+HODs maintain a bird's-eye view of the entire department.
+* **📉 Defaulter Alerts:** The system automatically flags students with attendance **below 75%**. The HOD can send a digital notice to these students with a single click.
+
+![HOD Analytics](./HODAnalytics.png)
+*Figure 6: Departmental analytics and defaulter management system.*
+
+#### 🎥 HOD Workflow Demo
+> Watch how the HOD manages time tables and analytics in real-time:
+
+![HOD Live Demo](./HOD.gif)
+
+---
+
+### 4️⃣ Institute Administration
+**Centralized Control Panel:**
+The Institute Admin acts as the controller for the entire campus ecosystem, managing departments, faculty, and student logs from a single secure dashboard.
+
+![Institute Admin Dashboard](./InstituteAdmin.png)
+*Figure 7: Master Control Panel for Institute Administrators.*
+
+#### 🎥 Live Dashboard Preview
+> See the Institute Admin dashboard in action:
+
+![Institute Dashboard Demo](./Institute%20Dashboard.gif)
+
+---
+
+### 5️⃣ Super Admin Panel
+**Global Platform Management:**
+The highest level of authority. The Super Admin manages the onboarding of new institutes onto the AcadeX platform.
+* **Verification:** Ability to **Accept** or **Reject** registration requests from new educational institutions.
+
+![Super Admin Panel](./SuperAdmin.png)
+*Figure 8: Super Admin interface for managing institute requests.*
+
+---
+
+### 🤖 AI-Powered "Super Mentor"
+**Integrated Smart Assistant:**
+Powered by the **Groq API**, the AcadeX Chatbot assists students and teachers with instant queries regarding schedules, syllabus, and app navigation.
+
+![AI Chatbot Demo](./AI%20Chatbot%20Demo.gif)
+
+---
+
+## 🛠️ Technical Architecture
+**AcadeX** is built for scale and security:
+* **Frontend:** React.js (PWA Support)
+* **Backend:** Node.js & Render
+* **Database:** Firebase Realtime Database
+* **AI Integration:** Groq API (LLM)
+* **Security:** Role-Based Access Control (RBAC) & End-to-End Encryption.
+
+---
+
+## 🔒 License & Intellectual Property
+**© 2026 Sushant Markad. All Rights Reserved.**
+
+**AcadeX is a proprietary startup product.**
+The source code is currently closed-source. Unauthorized copying, modification, distribution, or use of this software logic is strictly prohibited.
+
+---
+
+<div align="center">
+
+### 👨‍💻 About the Developer
 **Sushant Markad**
-*Founder of AcadeX | Team Leader, Team Nexus*
+*Team Leader - Team Nexus | SIH 2025 1st Runner Up*
 
-I am a passionate IT Engineering student and full-stack developer. My focus is on building scalable, real-world solutions that solve genuine problems.
+**Connect with me:**
+[Portfolio](INSERT_YOUR_PORTFOLIO_LINK_HERE) | [LinkedIn](INSERT_LINKEDIN_URL) | [Email](mailto:sushantmarkad1@gmail.com)
 
-* 🏆 **Achievements:** 1st Runner Up, Smart India Hackathon (SIH) 2025.
-* 💻 **Other Projects:** Developer of **Secure Chat** (Secure, End-to-End Encrypted Messaging).
-
-**Want to see more of my work or discuss a potential collaboration?**
-🌟 **Visit my Official Portfolio:** [Click Here to View Portfolio](https://sushantportfolio-lyart.vercel.app/)
-
----
+</div>
