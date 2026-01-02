@@ -17,6 +17,21 @@
 
 ---
 
+### 🔄 System Workflow
+> **How AcadeX Works:**
+> From Institute Registration to Daily Attendance, the entire ecosystem connects seamlessly through 5 key stages.
+
+<br />
+
+<div align="center">
+  <img src="./work flow .jpg" width="100%" alt="AcadeX System Workflow Diagram" />
+  <p><i>Figure: The complete architectural flow from Institute Onboarding to AI-driven Student Tasks.</i></p>
+</div>
+
+<br />
+
+---
+
 ### 🚀 1. The Student Experience
 > **Gamification & Engagement:**
 > Students don't just attend; they compete. The dashboard displays pending tasks and rewards 'XP' (Experience Points) for completing curriculum activities.
