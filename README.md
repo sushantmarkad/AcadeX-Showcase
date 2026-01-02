@@ -24,7 +24,7 @@
 <br />
 
 <div align="center"> 
-  <img src="./Full%20Student%20Dashbaord.gif" width="100%" />
+  <img src="./FullStudentDashboard.gif" width="100%" />
   <p><i>👆 The Live Student Dashboard in Action (XP & Tasks)</i></p>
 </div>
 
