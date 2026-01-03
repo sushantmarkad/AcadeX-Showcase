@@ -167,9 +167,12 @@
 ### 🔒 License & Ownership
 **AcadeX is a proprietary startup product.**
 <br />
-The source code is closed-source.
+To protect the intellectual property of this venture, the full source code is currently **closed-source**.
 <br />
 **© 2026 Sushant Markad. All Rights Reserved.**
+
+> **Interested in a Live Demo or Code Access?**
+> As I am actively building AcadeX into a startup, the code is not public. However, if you are a recruiter, investor, or collaborator interested in seeing the **source code** or a **live demo**, please feel free to contact me directly.
 
 <br />
 
@@ -178,6 +181,6 @@ The source code is closed-source.
 <br />
 *Team Leader - Team Nexus | SIH 2025 1st Runner Up*
 
-[Portfolio](https://sushantportfolio-lyart.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/sushant-markad/) | [Email](mailto:sushantmarkad1@gmail.com)
+[Portfolio](https://sushantportfolio-eta.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/sushant-markad/) | [Email](mailto:sushantmarkad1@gmail.com)
 
 </div>
